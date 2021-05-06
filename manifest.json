@@ -1,0 +1,22 @@
+{
+  "name": "calendar",
+  "version": "1.0",
+  "description": "this_is_calendar",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_title": "calender",
+    "default_popup": "calendar.html",
+    "default_icon": {
+      "16": "images/calendar.png",
+      "32": "images/calendar.png",
+      "64": "images/calendar.png",
+      "128": "images/calendar.png"
+    }
+  },
+  "icons": {
+    "16": "images/calendar.png",
+    "32": "images/calendar.png",
+    "64": "images/calendar.png",
+    "128": "images/calendar.png"
+  }
+}
